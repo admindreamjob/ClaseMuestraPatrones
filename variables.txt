@@ -1,0 +1,2 @@
+Discount:0.29:FLOAT
+Regular:1.0:FLOAT
